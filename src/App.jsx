@@ -1,6 +1,7 @@
 import './App.css'
 import Saludos from './Saludos.jsx'
 import Alumnos from './Alumnos.jsx'
+
 function App() {
   const alumno = {
     nombre: 'Andres',
